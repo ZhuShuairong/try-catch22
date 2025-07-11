@@ -2,7 +2,7 @@
 - Iris Flower Classification (Beginner)    --- COMPLETED
 - Build Your Own Linear Regression (Intermediate)    --- COMPLETED
 - Titanic Survival Prediction (Beginner)    --- COMPLETED
-- Housing Price Predictor (Beginner)  
+- Housing Price Predictor (Beginner)    --- COMPLETED
 - Image Classification System (Intermediate)  
 - Sentiment Analysis System (Intermediate)  
 - Customer Churn Predictor (Beginner)  
